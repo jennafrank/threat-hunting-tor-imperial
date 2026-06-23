@@ -26,6 +26,7 @@
 - TOR Browser
 
 ---
+![isd](images/sus.png)
 
 ## Scenario
 
@@ -125,6 +126,7 @@ DeviceNetworkEvents
 <img width="1212" alt="DeviceNetworkEvents - TOR relay connections confirmed from threat-hunt-lab" src="images/Screenshot 2026-06-23 at 12.31.45 PM.png"/>
 
 ---
+![isd](images/IT.png)
 
 ## Chronological Event Timeline
 
@@ -183,6 +185,8 @@ Imperial Security Division confirms: user `employee` on endpoint `threat-hunt-la
 
 **Threat vector:** Insider threat — deliberate evasion of network monitoring controls.
 
+![isd](images/ne.png)
+
 **Evidence chain:**
 - ✅ Installer downloaded and staged: `tor-browser-windows-x86_64-portable-14.0.1.exe`
 - ✅ Silent installation executed: `/S` flag confirmed
@@ -191,6 +195,7 @@ Imperial Security Division confirms: user `employee` on endpoint `threat-hunt-la
 - ✅ Activity artifacts created: `tor-shopping-list.txt` and browser storage files
 
 ---
+![isd](images/rt.png)
 
 ## Response Taken
 
